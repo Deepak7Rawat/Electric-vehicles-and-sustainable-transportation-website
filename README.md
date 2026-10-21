@@ -98,6 +98,6 @@ BCA Student | Web Development Learner
 
 ⭐ **If you like EcoMove, consider giving this repository a star!**
 
-<sub>Built with 💚 for a greener future.</sub>
+<sub>Built for a greener future.</sub>
 
 </div>
